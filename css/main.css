@@ -1,0 +1,270 @@
+body {
+    background-image: url(https://connor-sm.github.io/lzb_law_html/images/nza_background.jpg);
+}
+.container{
+  background-color: white;
+}
+header{
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 25px;
+}
+nav{
+  border-top:1px solid black;
+  border-bottom: 1px solid #000;
+  margin-bottom: 20px;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: black;
+}
+
+.vl {
+    border-left: 2px solid lightgrey;
+    height: 20px;
+    margin-top: 15px;
+}
+nav ul{
+  text-align: center;
+  justify-content: space-around;
+
+}
+ul{
+  width:100%;
+  text-align: center;
+}
+li{
+  margin-left: 50px;
+}
+.forest-img{
+  margin-left: 40px;
+  width: 800px;
+}
+h6{
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.pp1{
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 20px;
+  font-size: 14px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+
+
+
+}
+.NF{
+  padding-top: 10px;
+  font-size: 19px;
+  display: block;
+  font-weight: 300;
+  border-bottom: 2px solid white;
+}
+.pp2{
+  font-size: 11px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+height: 489.7px;
+  padding-left: 25px;
+  padding-right: 15px;
+  padding-top: 30px;
+  padding-right: 15px;
+  background-image: url(https://connor-sm.github.io/lzb_law_html/images/nav_side.jpg);
+  color: white;
+  margin-right: 40px;
+}
+.sp3{
+  font-weight: bold;
+}
+.pp3{
+  font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+margin-top: 20px;
+}
+.email{
+  color:red;
+}
+
+.hl{
+    border-bottom: 2px solid grey;
+    width: 15px;
+    height: 17px;
+  }
+
+.footer-nav {
+  margin-top: 40px !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  border-top:2.5px solid #333 !important;
+  border-bottom:0px;
+  font-size: 11px !important;
+  text-align: center !important;
+}
+
+.footer-copyright{
+  color:lightgrey;
+
+}
+.footerweb{
+  font-size: 12px;
+  color:lightgrey;
+
+}
+.footerul{
+  text-align: center !important;
+  justify-content: center;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.lil{
+  margin-left: 0px;
+}
+.smalllist{
+list-style-type: none;
+text-align: left !important;
+}
+.smallli{
+  text-align:left;
+  margin-left: -20px !important;
+}
+.linkss{
+  color: white;
+  text-align: right !important;
+}
+.pp2{
+padding-top: 0px !important;
+padding-left: 0px !important;
+margin-right: 0px !important;
+
+}
+.Whatwedo{
+  padding-top: 10px;
+  font-size: 13px;
+  display: block;
+  font-weight: 300;
+  border-bottom: 2px solid white;
+}
+.Wherewework{
+  padding-top: 10px;
+  font-size: 16px;
+  display: block;
+  font-weight: 300;
+  border-bottom: 2px solid white;
+}
+.pagewhere{
+  font-size: 14px;
+  list-style-type: none;
+  text-align: left;
+  margin-left: -8px;
+}
+.ppwh{
+  font-size: 11px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+  padding-left: 0px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-right: 15px;
+  background-image: url(https://connor-sm.github.io/lzb_law_html/images/nav_side.jpg);
+  color: white;
+  margin-right:0px;
+  height: 240px !important;
+  margin-left: 20px !important;
+}
+.wheredisc{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  padding-right: 25px;
+  margin-right: 10px;
+  margin-left: 5px;
+  margin-bottom: 100px;
+}
+.us{
+  font-size: 16px;
+  display: block;
+  font-weight: bold;
+  color: black;
+  border-bottom: 2px solid grey;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.usclass{
+  margin-bottom: 0px;
+  height: 20px;
+  padding-bottom: 0px;}
+
+
+
+.International{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  list-style-type: none;
+  text-align: left;
+  margin-left: 0px;
+  margin-right: 50px;
+}
+.listsus{
+  margin-top: 0px;
+  padding-top: 0px;
+  font-size: 12px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.ppc{
+font-size: 11px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+padding-left: 5px;
+padding-right: 15px;
+padding-top: 0px;
+padding-right: 15px;
+background-image: url(https://connor-sm.github.io/lzb_law_html/images/nav_side.jpg);
+color: white;
+margin-right:0px;
+height: 250px !important;
+margin-left: 20px !important;
+margin-right: 45px;
+}
+.lists{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.pagecontact{
+  list-style-type: none;
+  text-align: left;
+  margin-left: -15px;
+}
+.ppc1{
+  background-color: #D7CEC5;
+  font-size: 10px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  padding-left: 25px;
+  padding-right: 15px;
+  padding-top: 5px;
+  color: black;
+  height: 280px !important;
+  margin-left: 20px !important;
+  margin-right: 20px;
+  }
+.contactimg{
+  width: 160px;
+}
+.peopleleft{
+  width: 160px;
+  height: 80px;
+}
+.rep{
+  font-weight: bold;
+}
+.contactusimg{
+  width: 100%;
+  height: 180px;
+}
+.contactusp{
+  margin-top: 25px;
+  font-size: 17px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
